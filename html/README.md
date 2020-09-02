@@ -1,5 +1,5 @@
-# 深度学习笔记的html版本
+﻿# 深度學習筆記的html版本
 
-本文件夹的与**images**文件夹一起放在同一目录即可运行。
+本文件夾的與**images**文件夾一起放在同一目錄即可運行。
 
-[黄海广](https://www.zhihu.com/people/fengdu78/activities)
+[黃海廣](https://www.zhihu.com/people/fengdu78/activities)
